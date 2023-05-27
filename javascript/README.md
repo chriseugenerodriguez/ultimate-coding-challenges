@@ -11,4 +11,3 @@
 - [ComputeNepal/js-coding-challenges](./js-coding-challenges/README.md)
 - [kishanrajput23/50-Days-of-JavaScript](./50-Days-of-JavaScript/README.md)
 - [TheAlgorithms/JavaScript](./JavaScript/README.md)
-- [donnemartin/interactive-coding-challenges](./interactive-coding-challenges/README.md)
