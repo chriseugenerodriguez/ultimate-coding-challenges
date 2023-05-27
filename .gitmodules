@@ -1,0 +1,33 @@
+[submodule "javascript/exercises"]
+	path = javascript/exercises
+	url = https://github.com/kolodny/exercises
+[submodule "javascript/javascript-code-challenges"]
+	path = javascript/javascript-code-challenges
+	url = https://github.com/sadanandpai/javascript-code-challenges
+[submodule "javascript/javascript-interview-questions"]
+	path = javascript/javascript-interview-questions
+	url = https://github.com/sudheerj/javascript-interview-questions
+[submodule "javascript/javascript-questions"]
+	path = javascript/javascript-questions
+	url = https://github.com/lydiahallie/javascript-questions.git
+[submodule "javascript/123-Essential-JavaScript-Interview-Questions"]
+	path = javascript/123-Essential-JavaScript-Interview-Questions
+	url = https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions.git
+[submodule "javascript/JavaScript-Interview-Question"]
+	path = javascript/JavaScript-Interview-Question
+	url = https://github.com/Aakashdeveloper/JavaScript-Interview-Question.git
+[submodule "javascript/JavaScript-for-Everyone"]
+	path = javascript/JavaScript-for-Everyone
+	url = https://github.com/Asabeneh/JavaScript-for-Everyone.git
+[submodule "javascript/js-coding-challenges"]
+	path = javascript/js-coding-challenges
+	url = https://github.com/ComputeNepal/js-coding-challenges.git
+[submodule "javascript/50-Days-of-JavaScript"]
+	path = javascript/50-Days-of-JavaScript
+	url = https://github.com/kishanrajput23/50-Days-of-JavaScript.git
+[submodule "javascript/JavaScript"]
+	path = javascript/JavaScript
+	url = https://github.com/TheAlgorithms/JavaScript.git
+[submodule "javascript/Awesome-JavaScript-Interviews"]
+	path = javascript/Awesome-JavaScript-Interviews
+	url = https://github.com/rohan-paul/Awesome-JavaScript-Interviews.git
