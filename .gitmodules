@@ -28,9 +28,6 @@
 [submodule "javascript/JavaScript"]
 	path = javascript/JavaScript
 	url = https://github.com/TheAlgorithms/JavaScript.git
-[submodule "javascript/interactive-coding-challenges"]
-	path = javascript/interactive-coding-challenges
-	url = https://github.com/donnemartin/interactive-coding-challenges.git
 [submodule "javascript/Awesome-JavaScript-Interviews"]
 	path = javascript/Awesome-JavaScript-Interviews
 	url = https://github.com/rohan-paul/Awesome-JavaScript-Interviews.git
