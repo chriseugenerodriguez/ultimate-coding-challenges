@@ -4,7 +4,7 @@
 
 Ultimate Coding Repository of chriseugenerodriguez, which implements various algorithms and data structures for the following coding languages.
 
-[Banner][banner]
+[![Ultimate Coding Challenges Banner][banner]](DIRECTORY.md)
 
 - [JavaScript][javascript]
 - Flutter
@@ -60,7 +60,7 @@ if you make any mistakes.
 
 <!-- Banner Image -->
 
-[banner]: https://user-images.githubusercontent.com/68542775/167072911-dc31eac8-6885-4a05-9c25-279ecce22a79.png
+[banner]: https://github.com/chriseugenerodriguez/ultimate-coding-challenges/blob/main/bg.png
 
 <!-- Lists -->
 
