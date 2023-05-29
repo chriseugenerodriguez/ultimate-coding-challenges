@@ -50,13 +50,9 @@ Ultimate Coding Repository of chriseugenerodriguez, which implements various alg
 <!-- Body -->
 
 Before contributing to this repository, make sure to read our [Contribution Guidelines](CONTRIBUTING.md). You can look
-at other [TheAlgorithms Repositories][repositories] or the [issues with a "help wanted" label][help-wanted] for
+at other [chriseugenerodriguez Repositories][repositories] or the [issues with a "help wanted" label][help-wanted] for
 inspiration regarding what to implement. Our maintainers will guide you through how to make your contribution properly
-if you make any mistakes. The names of the maintainers of this repository are listed in the
-[CODEOWNERS file](.github/CODEOWNERS).
-
-You can find a list of the algorithms currently in the repository in the [directory](DIRECTORY.md). Explanations of
-many of the algorithms can be found in the [wiki][explanation].
+if you make any mistakes.
 
 ---
 
