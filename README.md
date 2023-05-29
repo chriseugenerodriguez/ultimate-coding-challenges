@@ -56,7 +56,7 @@ if you make any mistakes.
 ---
 
 <!-- Lists -->
-[javascript]: javascript/readme.md
+[javascript]: javascript/README.md
 
 <!-- Badge Links -->
 [standard-logo]: https://img.shields.io/badge/code%20style-standardjs-%23f3df49
