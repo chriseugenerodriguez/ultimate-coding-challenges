@@ -13,7 +13,9 @@ Ultimate Coding Repository of chriseugenerodriguez, which implements various alg
   [![Discord chat][chat]][discord-server]
 </div>
 
+<br/>
 This repo has the following coding challenges for review:
+<br/>
 
 - [JavaScript][javascript]
 - Flutter
@@ -73,7 +75,7 @@ if you make any mistakes.
 [standard-logo]: https://img.shields.io/badge/code%20style-standardjs-%23f3df49
 [chat]: https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA
 [welcome]: https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3
-[checks]: https://img.shields.io/github/actions/workflow/status/chriseugenerodriguez/ultimate-coding-challenges/Ci.yml?branch=master&label=checks
+[checks]: https://img.shields.io/github/actions/workflow/status/chriseugenerodriguez/ultimate-coding-challenges/Ci.yml?branch=main&label=checks
 [grade]: https://img.shields.io/lgtm/grade/javascript/g/chriseugenerodriguez/ultimate-coding-challenges.svg?logo=lgtm&logoWidth=18
 
 <!-- External Links -->
