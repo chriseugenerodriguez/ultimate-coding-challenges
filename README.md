@@ -1,7 +1,10 @@
 # Ultimate Coding Challenges
 
 <!-- Front Matter -->
+
 Ultimate Coding Repository of chriseugenerodriguez, which implements various algorithms and data structures for the following coding languages.
+
+[Banner][banner]
 
 - [JavaScript][javascript]
 - Flutter
@@ -55,10 +58,16 @@ if you make any mistakes.
 
 ---
 
+<!-- Banner Image -->
+
+[banner]: https://user-images.githubusercontent.com/68542775/167072911-dc31eac8-6885-4a05-9c25-279ecce22a79.png
+
 <!-- Lists -->
+
 [javascript]: javascript/README.md
 
 <!-- Badge Links -->
+
 [standard-logo]: https://img.shields.io/badge/code%20style-standardjs-%23f3df49
 [chat]: https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA
 [welcome]: https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3
@@ -66,7 +75,9 @@ if you make any mistakes.
 [grade]: https://img.shields.io/lgtm/grade/javascript/g/TheAlgorithms/JavaScript.svg?logo=lgtm&logoWidth=18
 
 <!-- External Links -->
+
 [standard-js]: https://standardjs.com/
+
 [discord-server]: https://the-algorithms.com/discord/](https://discord.gg/aFmaHM73HX
 [actions]: https://github.com/chriseugenerodriguez/ultimate-coding-challenges/actions
 [explanation]: https://github.com/chriseugenerodriguez/ultimate-coding-challenges/wiki
