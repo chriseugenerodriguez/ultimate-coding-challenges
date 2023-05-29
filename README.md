@@ -3,7 +3,7 @@
 <!-- Front Matter -->
 Ultimate Coding Repository of chriseugenerodriguez, which implements various algorithms and data structures for the following coding languages.
 <ul>
-  <li>[JavaScript](javascript/readme.md)</li>
+  <li>[JavaScript][javascript]</li>
   <li>Flutter</li>
   <li>React</li>
   <li>R</li>
@@ -55,6 +55,9 @@ inspiration regarding what to implement. Our maintainers will guide you through 
 if you make any mistakes.
 
 ---
+
+<!-- Lists -->
+[javascript]: javascript/readme.md
 
 <!-- Badge Links -->
 [standard-logo]: https://img.shields.io/badge/code%20style-standardjs-%23f3df49
