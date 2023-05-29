@@ -2,32 +2,31 @@
 
 <!-- Front Matter -->
 Ultimate Coding Repository of chriseugenerodriguez, which implements various algorithms and data structures for the following coding languages.
-<ul>
-  <li>[JavaScript][javascript] </li>
-  <li>Flutter</li>
-  <li>React</li>
-  <li>R</li>
-  <li>Angular</li>
-  <li>Node</li>
-  <li>Perl</li>
-  <li>PHP</li>
-  <li>Python</li>
-  <li>Ruby</li>
-  <li>C</li>
-  <li>C#</li>
-  <li>C++</li>
-  <li>Go</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>LeSS</li>
-  <li>SaSS</li>
-  <li>Java</li>
-  <li>Kotlin</li>
-  <li>SQL</li>
-  <li>Swift</li>
-  <li>TypeScript</li>
-  <li>Webpack</li>
-</ul>
+
+- [JavaScript][javascript]
+- Flutter
+- React
+- R
+- Angular
+- Node
+- Perl
+- PHP
+- Python
+- Ruby
+- C
+- C#
+- C++
+- Go
+- HTML
+- CSS
+- LeSS
+- SaSS
+- Java
+- Kotlin
+- SQL
+- Swift
+- TypeScript
+- Webpack
 
 <div align="center">
   [![Checks][checks]][actions]
