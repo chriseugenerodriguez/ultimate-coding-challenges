@@ -6,6 +6,15 @@ Ultimate Coding Repository of chriseugenerodriguez, which implements various alg
 
 [![Ultimate Coding Challenges Banner][banner]](DIRECTORY.md)
 
+<div align="center">
+  [![Checks][checks]][actions]
+  [![Contributions Welcome][welcome]](CONTRIBUTING.md)
+  [![standard.js][standard-logo]][standard-js]
+  [![Discord chat][chat]][discord-server]
+</div>
+
+This repo has the following coding challenges for review:
+
 - [JavaScript][javascript]
 - Flutter
 - React
@@ -30,13 +39,6 @@ Ultimate Coding Repository of chriseugenerodriguez, which implements various alg
 - Swift
 - TypeScript
 - Webpack
-
-<div align="center">
-  [![Checks][checks]][actions]
-  [![Contributions Welcome][welcome]](CONTRIBUTING.md)
-  [![standard.js][standard-logo]][standard-js]
-  [![Discord chat][chat]][discord-server]
-</div>
 
 ---
 
@@ -71,8 +73,8 @@ if you make any mistakes.
 [standard-logo]: https://img.shields.io/badge/code%20style-standardjs-%23f3df49
 [chat]: https://img.shields.io/discord/808045925556682782.svg?logo=discord&colorB=7289DA
 [welcome]: https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3
-[checks]: https://img.shields.io/github/actions/workflow/status/TheAlgorithms/JavaScript/Ci.yml?branch=master&label=checks
-[grade]: https://img.shields.io/lgtm/grade/javascript/g/TheAlgorithms/JavaScript.svg?logo=lgtm&logoWidth=18
+[checks]: https://img.shields.io/github/actions/workflow/status/chriseugenerodriguez/ultimate-coding-challenges/Ci.yml?branch=master&label=checks
+[grade]: https://img.shields.io/lgtm/grade/javascript/g/chriseugenerodriguez/ultimate-coding-challenges.svg?logo=lgtm&logoWidth=18
 
 <!-- External Links -->
 
