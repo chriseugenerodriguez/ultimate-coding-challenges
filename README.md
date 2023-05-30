@@ -2,7 +2,7 @@
 
 <!-- Front Matter -->
 
-Ultimate Coding Repository of chriseugenerodriguez, which implements various algorithms and data structures for the following coding languages.
+Ultimate Coding Repository of chriseugenerodriguez, which implements various algorithms, data structures, and code challenges based on various languages.
 
 [![Ultimate Coding Challenges Banner][banner]](DIRECTORY.md)
 
@@ -14,7 +14,7 @@ Ultimate Coding Repository of chriseugenerodriguez, which implements various alg
 </div>
 
 <br/>
-This repo has the following coding challenges for review:
+This repository supports the following coding challenges for review:
 <br/>
 
 - [JavaScript][javascript]
