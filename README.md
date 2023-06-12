@@ -18,29 +18,29 @@ This repository supports the following coding challenges for review:
 <br/>
 
 - [JavaScript][javascript]
-- Flutter
-- React
-- R
-- Angular
-- Node
-- Perl
-- PHP
-- Python
-- Ruby
-- C
-- C#
-- C++
-- Go
-- HTML
-- CSS
-- LeSS
-- SaSS
-- Java
-- Kotlin
-- SQL
-- Swift
-- TypeScript
-- Webpack
+- [Flutter][flutter]
+- [React][react]
+- [R][r]
+- [Angular][angular]
+- [Node][node-js]
+- [Perl][perl]
+- [PHP][php]
+- [Python][python]
+- [Ruby][ruby]
+- [C][c]
+- [C#][c-sharp]
+- [C++][c-plus-plus]
+- [Go][golang]
+- [HTML][html]
+- [CSS][css]
+- [LeSS][less]
+- [SaSS][sass]
+- [Java][java]
+- [Kotlin][kotlin]
+- [SQL][sql]
+- [Swift][swift]
+- [TypeScript][typescript]
+- [Webpack][webpack]
 
 ---
 
@@ -69,6 +69,29 @@ if you make any mistakes.
 <!-- Lists -->
 
 [javascript]: javascript/README.md
+[flutter]: flutter/README.md
+[react]: react/README.md
+[r]: r/README.md
+[angular]: angular/README.md
+[node-js]: node-js/README.md
+[perl]: perl/README.md
+[php]: php/README.md
+[python]: python/README.md
+[ruby]: ruby/README.md
+[c]: c/README.md
+[c-sharp]: c-sharp/README.md
+[c-plus-plus]: c-plus-plus/README.md
+[golang]: golang/README.md
+[html]: html/README.md
+[css]: css/README.md
+[less]: less/README.md
+[sass]: sass/README.md
+[java]: java/README.md
+[kotlin]: kotlin/README.md
+[sql]: sql/README.md
+[swift]: swift/README.md
+[typescript]: typescript/README.md
+[webpack]: webpack/README.md
 
 <!-- Badge Links -->
 
@@ -82,7 +105,7 @@ if you make any mistakes.
 
 [standard-js]: https://standardjs.com/
 
-[discord-server]: https://the-algorithms.com/discord/](https://discord.gg/aFmaHM73HX
+[discord-server]: [https://the-algorithms.com/discord/](https://discord.gg/aFmaHM73HX)
 [actions]: https://github.com/chriseugenerodriguez/ultimate-coding-challenges/actions
 [explanation]: https://github.com/chriseugenerodriguez/ultimate-coding-challenges/wiki
 [repositories]: https://github.com/orgs/chriseugenerodriguez/repositories
