@@ -1,6 +1,9 @@
 # Webpack
 ### Webpack coding challenge repositories compilation.
 
+**Webpack repository (interview questions)**
+[Link to the repo](https://github.com/styopdev/webpack-interview-questions)
+
 **Webpack theory, articles**
 - [Performance in Jira front-end: solving bundle duplicates with Webpack and yarn](https://www.atlassian.com/engineering/performance-in-jira-front-end-solving-bundle-duplicates-with-webpack-and-yarn)
 - [Developing in a Monorepo While Still Using Webpack](https://codeascraft.com/2020/04/06/developing-in-a-monorepo-while-still-using-webpack/)
