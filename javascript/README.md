@@ -1,7 +1,7 @@
 # JavaScript
 ### JavaScript coding challenge repositories compilation.
 
-**Javascript Interview questions**
+**Javascript Interview questions (Misc)**
 - [50 days of Javascript](./50-Days-of-JavaScript/README.md)
 - [123 Essential JavaScript Interview Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions) *external repo*
 - [Awesome JavaScript Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews) *external repo*
@@ -71,7 +71,7 @@
   * [UpperCaseConversion](Conversions/UpperCaseConversion.js)
 * **Data-Structures**
   * **Array**
-    * [LocalMaximomPoint](Data-Structures/Array/LocalMaximomPoint.js)
+    * [LocalMaximumPoint](Data-Structures/Array/LocalMaximumPoint.js)
     * [NumberOfLocalMaximumPoints](Data-Structures/Array/NumberOfLocalMaximumPoints.js)
     * [QuickSelect](Data-Structures/Array/QuickSelect.js)
     * [Reverse](Data-Structures/Array/Reverse.js)
