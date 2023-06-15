@@ -1,17 +1,19 @@
 # JavaScript
 ### JavaScript coding challenge repositories compilation.
 
-**Javascript Interview questions (Misc)**
-- [50 days of Javascript](./50-Days-of-JavaScript/README.md)
-- [123 Essential JavaScript Interview Questions](https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions) *external repo*
-- [Awesome JavaScript Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews) *external repo*
-- [Javascript Code Challenges](./javascript-code-challenges/README.md)
-- [JavaScript for Everyone](https://github.com/Asabeneh/JavaScript-for-Everyone) *external repo, book*
-- [JS Questions #1](https://github.com/sudheerj/javascript-interview-questions) *external repo*
-- [JS Questions #2](https://github.com/lydiahallie/javascript-questions) *external repo*
-- [JS Coding challenges](./js-coding-challenges/README.md)
+**Miscellaneous Javascript Interview questions**
+- [50 days of Javascript](./MISC/50-Days-of-JavaScript/README.md)
+- [123 Essential JavaScript Interview Questions](./MISC/123-js-interview-questions/README.md)
+- [Awesome JavaScript Interviews](./MISC/awesome-js-interviews/README.md)
+- [Javascript Code Challenges](./MISC/javascript-code-challenges/README.md)
+- [JavaScript for Everyone](./MISC/js-for-everyone/README.md)
+- [JS Questions #1](./MISC/js-questions-1/README.md)
+- [JS Questions #2](./MISC/js-questions-2/README.md)
+- [JS Coding challenges](./MISC/js-coding-challenges/README.md)
+
 
 ### JavaScript coding examples (in progress)
+Click list item
 * [**Backtracking**](./Backtracking/README.md)
 * [**Bit-Manipulation**](./Bit-Manipulation/README.md)
 * [**Cache**](./Cache/README.md)
