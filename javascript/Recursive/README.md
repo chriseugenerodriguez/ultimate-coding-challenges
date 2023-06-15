@@ -7,6 +7,7 @@
 * [FibonacciNumberRecursive](FibonacciNumberRecursive.js)
 * [FloodFill](FloodFill.js)
 * [KochSnowflake](KochSnowflake.js)
+* [KochSnowflake (Manual test)](KochSnowflake.manual-test.js)
 * [LetterCombination](LetterCombination.js)
 * [Palindrome](Palindrome.js)
 * [SubsequenceRecursive](SubsequenceRecursive.js)

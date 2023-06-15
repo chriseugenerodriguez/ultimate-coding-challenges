@@ -1,6 +1,6 @@
 ### Dynamic Programming (JavaScript)
 
- * [CatalanNumbers](Dynamic-Programming/CatalanNumbers.js)
+* [CatalanNumbers](Dynamic-Programming/CatalanNumbers.js)
 * [ClimbingStairs](Dynamic-Programming/ClimbingStairs.js)
 * [CoinChange](Dynamic-Programming/CoinChange.js)
 * [EditDistance](Dynamic-Programming/EditDistance.js)
@@ -21,8 +21,11 @@
 * [Shuf](Dynamic-Programming/Shuf.js)
 * [SieveOfEratosthenes](Dynamic-Programming/SieveOfEratosthenes.js)
 * **Sliding-Window**
+	* [HouseRobber](Dynamic-Programming/Sliding-Window/HouseRobber.js)
 	* [LongestSubstringWithoutRepeatingCharacters](Dynamic-Programming/Sliding-Window/LongestSubstringWithoutRepeatingCharacters.js)
-* [PermutationinString](Dynamic-Programming/Sliding-Window/PermutationinString.js)
+	* [MaxConsecutiveOnes](Dynamic-Programming/Sliding-Window/MaxConsecutiveOnes.js)
+	* [MaxConsecutiveOnesIII](Dynamic-Programming/Sliding-Window/MaxConsecutiveOnesIII.js)
+	* [PermutationinString](Dynamic-Programming/Sliding-Window/PermutationinString.js)
 * [SudokuSolver](Dynamic-Programming/SudokuSolver.js)
 * [TrappingRainWater](Dynamic-Programming/TrappingRainWater.js)
 * [TribonacciNumber](Dynamic-Programming/TribonacciNumber.js)

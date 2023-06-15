@@ -1,6 +1,6 @@
 ### Data Structures (JavaScript)
 
-* **Array**
+  * **Array**
     * [LocalMaximumPoint](Array/LocalMaximumPoint.js)
     * [NumberOfLocalMaximumPoints](Array/NumberOfLocalMaximumPoints.js)
     * [QuickSelect](Array/QuickSelect.js)
@@ -10,6 +10,7 @@
     * [Graph2](Graph/Graph2.js)
     * [Graph3](Graph/Graph3.js)
   * **Heap**
+    * [KeyPriorityQueue](Heap/KeyPriorityQueue.js)
     * [MaxHeap](Heap/MaxHeap.js)
     * [MinHeap](Heap/MinHeap.js)
     * [MinPriorityQueue](Heap/MinPriorityQueue.js)

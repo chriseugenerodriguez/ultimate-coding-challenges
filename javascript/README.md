@@ -12,7 +12,7 @@
 - [JS Coding challenges](./MISC/js-coding-challenges/README.md)
 
 
-### JavaScript coding examples (in progress)
+### JavaScript coding examples
 Click list item
 * [**Backtracking**](./Backtracking/README.md)
 * [**Bit-Manipulation**](./Bit-Manipulation/README.md)
@@ -34,5 +34,7 @@ Click list item
 * [**String**](./String/README.md)
 * [**Timing-Functions**](./Timing-Functions/README.md)
 * [**Trees**](./Trees/README.md)
+
+[Source repo](https://github.com/TheAlgorithms/JavaScript)
 
 [Back](./../README.md)
