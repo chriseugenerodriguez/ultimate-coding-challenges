@@ -7,6 +7,12 @@ const celsiusToFahrenheit = (celsius) => {
   return Math.round(((celsius) * 9 / 5) + 32)
 }
 
+const celsiusToFahrenheit2 = (celsius) => {
+  const fahrenheit = celsius * 1.8 + 32;
+  return fahrenheit;
+}
+// https://github.com/ComputeNepal/js-coding-challenges/blob/main/solutions/ch_16_Celsius_To_Fahrenheit/readme.md
+
 const celsiusToKelvin = (celsius) => {
   // Wikipedia reference: https://en.wikipedia.org/wiki/Celsius
   // Wikipedia reference: https://en.wikipedia.org/wiki/Kelvin
@@ -94,7 +100,7 @@ const reaumurToRankine = (reaumur) => {
 }
 
 export {
-  celsiusToFahrenheit, celsiusToKelvin, celsiusToRankine,
+  celsiusToFahrenheit, celsiusToFahrenheit2, celsiusToKelvin, celsiusToRankine,
   fahrenheitToCelsius, fahrenheitToKelvin, fahrenheitToRankine,
   kelvinToCelsius, kelvinToFahrenheit, kelvinToRankine,
   rankineToCelsius, rankineToFahrenheit, rankineToKelvin,

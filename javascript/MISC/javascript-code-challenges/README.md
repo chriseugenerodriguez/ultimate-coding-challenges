@@ -1,8 +1,0 @@
-## Javascript code challenges
-
-- Primitives [concepts](https://github.com/sadanandpai/javascript-code-challenges/blob/main/challenges/primitives-concepts.md#home) | [challenges](https://github.com/sadanandpai/javascript-code-challenges/blob/main/challenges/primitives-challenges.md#home)
-- Functions [concepts](https://github.com/sadanandpai/javascript-code-challenges/blob/main/challenges/functions-concepts.md#home) | [challenges](https://github.com/sadanandpai/javascript-code-challenges/blob/main/challenges/functions-challenges.md#home)
-- Objects [concepts](https://github.com/sadanandpai/javascript-code-challenges/blob/main/challenges/objects-concepts.md#home) | [challenges](https://github.com/sadanandpai/javascript-code-challenges/blob/main/challenges/objects-challenges.md#home)
-- Collections [concepts](https://github.com/sadanandpai/javascript-code-challenges/blob/main/challenges/collections-concepts.md#home) | [challenges](https://github.com/sadanandpai/javascript-code-challenges/blob/main/challenges/collections-challenges.md#home)
-- Async [concepts](https://github.com/sadanandpai/javascript-code-challenges/blob/main/challenges/async-concepts.md#home) | [challenges](https://github.com/sadanandpai/javascript-code-challenges/blob/main/challenges/async-challenges.md#home)
-- DOM [challenges](https://github.com/sadanandpai/javascript-code-challenges/blob/main/challenges/dom-challenges.md#home)
