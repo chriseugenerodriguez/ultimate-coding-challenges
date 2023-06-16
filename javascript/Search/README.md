@@ -1,0 +1,16 @@
+### Search (JavaScript)
+
+* [BinarySearch](BinarySearch.js)
+* [ExponentialSearch](ExponentialSearch.js)
+* [FibonacciSearch](FibonacciSearch.js)
+* [InterpolationSearch](InterpolationSearch.js)
+* [JumpSearch](JumpSearch.js)
+* [LinearSearch](LinearSearch.js)
+* [Minesweeper](Minesweeper.js)
+* [QuickSelectSearch](QuickSelectSearch.js)
+* [SlidingWindow](SlidingWindow.js)
+* [StringSearch](StringSearch.js)
+* [TernarySearch](TernarySearch.js)
+* [UnionFind](UnionFind.js)
+
+[Back](./../README.md)
