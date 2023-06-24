@@ -5884,4 +5884,4 @@ JavaScript-Test-4)
 - [JavaScript Test 4: Solutions](https://github.com/Asabeneh/JavaScript-for-Everyone/blob/master/solutions/javascript-test-4.js)
 
 [Source](https://github.com/Asabeneh/JavaScript-for-Everyone)
-[Back](./../js-for-everyone/README.md)
+[Back](./../README.md)

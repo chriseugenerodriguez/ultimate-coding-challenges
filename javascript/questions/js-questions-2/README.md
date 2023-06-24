@@ -5100,4 +5100,4 @@ The condition within the `if` statement checks whether the value of `!typeof ran
 
 [Source](https://github.com/lydiahallie/javascript-questions)
 
-[Back](./../../README.md)
+[Back](./../README.md)
