@@ -1,8 +1,7 @@
-# Ultimate Coding Challenges
-
+# Ultimate Coding Reference Guide
 <!-- Front Matter -->
 
-Ultimate Coding Repository of chriseugenerodriguez, which implements various algorithms, data structures, and code challenges based on various languages.
+This coding repository by chriseugenerodriguez, implements various algorithms, data structures, and code challenges based on various languages.
 
 [![Ultimate Coding Challenges Banner][banner]](DIRECTORY.md)
 
