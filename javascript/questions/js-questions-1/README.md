@@ -10866,4 +10866,4 @@ The length of the array 'arr' has been set to 0, so the array becomes empty.
 
 [Source](https://github.com/sudheerj/javascript-interview-questions)
 
-[Back](./../../README.md)
+[Back](./../README.md)

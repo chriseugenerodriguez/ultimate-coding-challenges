@@ -1164,4 +1164,4 @@
 
 [Source](https://github.com/rohan-paul/Awesome-JavaScript-Interviews)
 
-[Back](./../../README.md)
+[Back](./../README.md)
