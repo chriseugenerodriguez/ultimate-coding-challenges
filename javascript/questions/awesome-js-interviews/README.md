@@ -1,6 +1,6 @@
 ### Awesome JS Interviews
 
-## Table of Contents of this Readme file
+#### Table of Contents of this Readme file
 
 1. [Most common Fundamental JavaScript Interview Topics & Questions](#most-common-fundamental-javascript-interview-topics--questions)
 
@@ -80,7 +80,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## Most common Fundamental JavaScript Interview Topics & Questions
+#### Most common Fundamental JavaScript Interview Topics & Questions
 
 - [Explain event delegation](Javascript/event-delegation-propagation-bubbling.md)
 - [Explain how `this` works in JavaScript](Javascript/this-keyword/this-keyword-2nd-example-GREAT-Example.md)
@@ -168,7 +168,7 @@
 
 ---
 
-## Most common Tricky Javascript Interview Topics & Questions
+#### Most common Tricky Javascript Interview Topics & Questions
 
 - [Collection-of-Tricky-JS-Questlions](Javascript/Tricky-JS-Problems/Collection-of-Tricky-JS-Questlions.md)
 - [closure-tricky and great Example](Javascript/js-basics/Closure/closure-tricky-GREAT-EXAMPLE.js)
@@ -185,7 +185,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## Most common Async/Await and Promise related Interview Topics & Questions
+#### Most common Async/Await and Promise related Interview Topics & Questions
 
 - [Async/Await - Understanding the fundamentals](Promise-Async-Await-Sequential-Execution/async-await-master-notes/README.md)
 - [asyn-await-how-its-called-asynchronous-when-it-makes-possible-to-execute-in-synchrounous-manner](Promise-Async-Await-Sequential-Execution/async-await-master-notes/asyn-await-how-its-called-asynchronous-when-it-makes-possible-to-execute-in-synchrounous-manner.md)
@@ -219,7 +219,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## Most common Node Interview Topics & Questions
+#### Most common Node Interview Topics & Questions
 
 - [why-nodejs-required-at-all-and-difference-vs-plain-js](Node-Express/why-nodejs-required-at-all-and-difference-vs-plain-js.md)
 - [How-nodejs-works](Node-Express/How-nodejs-works.md)
@@ -258,7 +258,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## Most common Web-Development Architecture related Interview Topics & Questions
+#### Most common Web-Development Architecture related Interview Topics & Questions
 
 - [critical-render-path](Web-Development-In-General/critical-render-path.md)
 - [How-to-Check-HTTP-Request-Response-on-Chrome](Web-Development-In-General/How-to-Check-HTTP-Request-Response-on-Chrome.md)
@@ -278,7 +278,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## Most common React Interview Topics & Questions
+#### Most common React Interview Topics & Questions
 
 - [Element-vs-Component-in-React](React/Element-vs-Component-in-React.md)
 - [What is a Prop - props-Absolute-Basics](React/props-Absolute-Basics.md)
@@ -348,7 +348,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## Most common Redux Interview Topics & Questions
+#### Most common Redux Interview Topics & Questions
 
 - [What is Redux Actions](Redux/Actions.md)
 - [actions-why-enclosed-in-curly-braces](Redux/actions-why-enclosed-in-curly-braces.md)
@@ -379,7 +379,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## Most common Angular Interview Topics & Questions
+#### Most common Angular Interview Topics & Questions
 
 (Below Links are all within this Repository)
 
@@ -448,7 +448,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## Most common MongoDB Interview Topics & Questions
+#### Most common MongoDB Interview Topics & Questions
 
 (Below Links are all within this Repository)
 
@@ -466,7 +466,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## Most common HTML Interview Topics & Questions
+#### Most common HTML Interview Topics & Questions
 
 (Below Links are all within this Repository)
 
@@ -476,7 +476,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## Most common CSS Interview Topics & Questions
+#### Most common CSS Interview Topics & Questions
 
 (Below Links are all within this Repository)
 
@@ -497,7 +497,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## Most common Git and Github related Interview Topics & Questions
+#### Most common Git and Github related Interview Topics & Questions
 
 (Below Links are all within this Repository)
 
@@ -512,7 +512,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## Understanding the Theory and the fundamentals of some super-popular Algorithm questions
+#### Understanding the Theory and the fundamentals of some super-popular Algorithm questions
 
 - :link: [Big O Cheatsheet](http://bigocheatsheet.com/)
   :link: [Quick Big O understanding for coding interviews](https://medium.com/@jayshah_84248/big-o-for-coding-interviews-e6ca8897f926)
@@ -538,7 +538,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## Github Repositories with large collections of problems-and-solutions of them most popular Interview challenges
+#### Github Repositories with large collections of problems-and-solutions of them most popular Interview challenges
 
 - :link: [Algorithms-Leetcode-Javascript](https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript)
 - :link: [Algorithm-in-JavaScript](https://github.com/rohan-paul/Algorithm-in-JavaScript)
@@ -556,7 +556,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## Overall multi-factor approach for winning this huge challenge and a great journey of getting the first Developer Job
+#### Overall multi-factor approach for winning this huge challenge and a great journey of getting the first Developer Job
 
 - :link: [medium.com/javascript-scene/every-developer-needs-a-code-portfolio](https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110)
   :link: [Collection of Resources for Interview preparations and practices](https://medium.com/@jayshah_84248/how-to-do-well-in-a-coding-interview-2bcd67e93cb5)
@@ -585,7 +585,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-### Other important resources
+#### Other important resources
 
 - :link: [javascript cheatsheet](http://overapi.com/javascript)
 - :link: [Javascript cheat sheet - InterviewBit](https://www.interviewbit.com/javascript-cheat-sheet/)
@@ -607,7 +607,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## Coding Challenge Practice Platforms
+#### Coding Challenge Practice Platforms
 
 - :link: [interviewing.io](https://interviewing.io/)
 - :link: [Leetcode](https://leetcode.com/)
@@ -633,7 +633,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## More curated list of general resources for JavaScript Interviews
+#### More curated list of general resources for JavaScript Interviews
 
 - :link: [Follow this list in Twitter - These are some great developers who regularly gives a lot of useful advice for a wannabe dev regularly](https://twitter.com/i/lists/1273224332521717761)
 
@@ -675,7 +675,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## Most frequently asked concepts for Front End Engineering Interview
+#### Most frequently asked concepts for Front End Engineering Interview
 
 1. call, apply and bind method
 2. Polyfill for bind method
@@ -701,7 +701,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## List of sites where you can hunt for a developer job
+#### List of sites where you can hunt for a developer job
 
 - :link: AngelList - https://angel.co
 - :link: DevITjobs.us: https://devitjobs.us
@@ -730,7 +730,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## Want a startup job?
+#### Want a startup job?
 
 - :link: AngelList: http://angel.co/jobs
 - :link: Product Hunt: http://producthunt.com/jobs
@@ -740,7 +740,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## Best places to job hunt for remote jobs:
+#### Best places to job hunt for remote jobs:
 
 - :link: FlexJobs: http://flexjobs.com
 - :link: WeWorkRemotely: http://weworkremotely.com
@@ -764,7 +764,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## Here are a few places to hunt for ios, react, vue and more
+#### Here are a few places to hunt for ios, react, vue and more
 
 - :link: iOS: http://iosdevjobs.com
 - :link: React: http://reactjobboard.com
@@ -774,28 +774,28 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## Want a list of just JavaScript jobs?
+#### Want a list of just JavaScript jobs?
 
 - :link: JavaScript job XYZ: http://javascriptjob.xyz
 - :link: Javascript remotely: http://jsremotely.com
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## Are you looking for a junior dev job?
+#### Are you looking for a junior dev job?
 
 - :link: JrDevJobs: http://jrdevjobs.com
 - :link: Stackoverflow Junior jobs: https://stackoverflow.com/jobs/junior-developer-jobs
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## Women focused job boards!
+#### Women focused job boards!
 
 - :link: Women Who Code: http://womenwhocode.com/jobs
 - :link: Tech Ladies - https://hiretechladies.com
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## Want a job as a freelance dev? Here's a list
+#### Want a job as a freelance dev? Here's a list
 
 - :link: Freelancer: http://freelancer.com/jobs
 - :link: Upwork: http://upwork.com
@@ -806,7 +806,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## Some useful websites for programmers
+#### Some useful websites for programmers
 
 <li><a href="#when-you-get-stuck">When you get stuck</a></li>
 <li><a href="#for-small-project-ideas">For small project ideas</a></li>
@@ -816,7 +816,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## When you get stuck
+#### When you get stuck
 
 - [Codementor](https://www.codementor.io) : A mentorship community to learn from fellow developers via live 1:1 help and more.
 - [devRant](https://www.devrant.io) : Community where you can rant and release your stress
@@ -827,7 +827,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## Ideas For small project ideas
+#### Ideas For small project ideas
 
 - [freeCodeCamp | React project ideas](https://medium.freecodecamp.org/every-time-you-build-a-to-do-list-app-a-puppy-dies-505b54637a5d?gi=c786640fbd11) : 27 fun app ideas you can build while learning React.
 - [martyr2s-mega-project-ideas-list](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/) : contains about 125 project ideas from beginner to intermediate level.
@@ -840,7 +840,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## General Coding advice
+#### General Coding advice
 
 - [10-ways-to-be-a-better-developer](https://stephenhaunts.files.wordpress.com/2014/04/10-ways-to-be-a-better-developer.png) : Ways to become a better dev!
 - [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html) : Kevin London's blog
@@ -884,7 +884,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## Coding Style
+#### Coding Style
 
 - [Airbnb JS Style Guide](https://github.com/airbnb/javascript) : A mostly reasonable approach to JavaScript
 - [Airbnb Ruby Style Guide](https://github.com/airbnb/ruby) : A ruby style guide by Airbnb
@@ -907,7 +907,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## Collection of Leetcode Problem solution
+#### Collection of Leetcode Problem solution
 
 - [github.com/AlanWei/LeetCode](https://github.com/AlanWei/LeetCode)
 - [github.com/LiuL0703/algorithm/tree/master/LeetCode/JavaScript](https://github.com/LiuL0703/algorithm/tree/master/LeetCode/JavaScript)
@@ -949,7 +949,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## Collection of Cracking the Coding Interview Book Problem solution
+#### Collection of Cracking the Coding Interview Book Problem solution
 
 - [github.com/sharlatta/cracking](https://github.com/sharlatta/cracking)
 - [github.com/ammiranda/CrackingTheCodingInterview](https://github.com/ammiranda/CrackingTheCodingInterview)
@@ -969,11 +969,11 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## UX-CSS-Design Sense Related
+#### UX-CSS-Design Sense Related
 
 - [Accessibility Interview Questions](https://scottaohara.github.io/accessibility_interview_questions/)
 
-## Most common System-Design Interview Topics & Questions
+#### Most common System-Design Interview Topics & Questions
 
 (Below Links are all within this Repository)
 
@@ -983,7 +983,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## System-Design related topics-Some very useful articles
+#### System-Design related topics-Some very useful articles
 
 - [System Interview](http://www.hiredintech.com/app#system-design)
 - [Scalability for Dummies](http://www.lecloud.net/tagged/scalability)
@@ -1121,7 +1121,7 @@
 
 [[↑] Back to top](#table-of-contents-of-this-readme-file)
 
-## System-Design-Company engineering blog
+#### System-Design-Company engineering blog
 
 - [High Scalability](http://highscalability.com/)
 - [The GitHub Blog](https://github.com/blog/category/engineering)

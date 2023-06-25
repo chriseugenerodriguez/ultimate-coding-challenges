@@ -1,6 +1,6 @@
-### 123 JS Interview Questions
+#### 123 JS Interview Questions
 
-## Question 1. What's the difference between `undefined` and `not defined` in JavaScript
+##### Question 1. What's the difference between `undefined` and `not defined` in JavaScript
 
 <details><summary><b>Answer</b></summary>
 
@@ -30,12 +30,12 @@ A variable can be neither declared nor defined. When we try to reference such va
 console.log(y);  // Output: ReferenceError: y is not defined
 ```
 
-### Ref Link:
+##### Ref Link:
 [http://stackoverflow.com/questions/20822022/javascript-variable-definition-declaration](http://stackoverflow.com/questions/20822022/javascript-variable-definition-declaration)
 
 </details>
 
-## Question 2. For which value of `x` the results of the following statements are not the same?
+##### Question 2. For which value of `x` the results of the following statements are not the same?
 
 
 ```javascript
@@ -53,7 +53,7 @@ This is why you need to pay attention when you deal with numeric variables. `NaN
 
 </details>
 
-## Question 3. What is the drawback of declaring methods directly in JavaScript objects?
+##### Question 3. What is the drawback of declaring methods directly in JavaScript objects?
 
 <details><summary><b>Answer</b></summary>
 
@@ -83,7 +83,7 @@ In this case each instance variable `emp1`, `emp2`, `emp3` has its own copy of t
 
 </details>
 
-## Question 4. What is “closure” in javascript? Can you provide an example?
+##### Question 4. What is “closure” in javascript? Can you provide an example?
 
 <details><summary><b>Answer</b></summary>
 
@@ -132,7 +132,7 @@ globalVar = abc
 
 </details>
 
-## Question 5. Write a mul function which will work properly when invoked with following syntax.
+##### Question 5. Write a mul function which will work properly when invoked with following syntax.
 
 ```javascript
 console.log(mul(2)(3)(4)); // output : 24
@@ -162,7 +162,7 @@ In Javascript, a function defined inside another function has access to the oute
 
 </details>
 
-## Question 6. How to empty an array in JavaScript?
+##### Question 6. How to empty an array in JavaScript?
 For instance:
 
 ```javascript
@@ -175,7 +175,7 @@ How can we empty the array above?
 
 There are a couple of ways by which we can empty an array, So let's discuss all the possible way by which we can empty an array.
 
-#### Method 1
+###### Method 1
 
 ```javascript
 arrayList = [];
@@ -192,7 +192,7 @@ arrayList = []; // Empty the array
 console.log(anotherArrayList); // Output ['a', 'b', 'c', 'd', 'e', 'f']
 ```
 
-#### Method 2
+###### Method 2
 
 ```javascript
 arrayList.length = 0;
@@ -209,7 +209,7 @@ arrayList.length = 0; // Empty the array by setting length to 0
 console.log(anotherArrayList); // Output []
 ```
 
-#### Method 3
+###### Method 3
 
 ```javascript
 arrayList.splice(0, arrayList.length);
@@ -224,7 +224,7 @@ arrayList.splice(0, arrayList.length); // Empty the array by setting length to 0
 console.log(anotherArrayList); // Output []
 ```
 
-#### Method 4
+###### Method 4
 
 ```javascript
 while(arrayList.length) {
@@ -237,7 +237,7 @@ Above implementation can also empty the array. But not recommended to use often.
 
 </details>
 
-## Question 7. How to check if an object is an array or not?
+##### Question 7. How to check if an object is an array or not?
 
 <details><summary><b>Answer</b></summary>
 
@@ -304,7 +304,7 @@ Array.isArray(arrayList);
 
 </details>
 
-## Question 8. What will be the output of the following code?
+##### Question 8. What will be the output of the following code?
 
 ```javascript
 var output = (function(x) {
@@ -320,7 +320,7 @@ The code above will output `0` as output. `delete` operator is used to delete a 
 
 </details>
 
-## Question 9. What will be the output of the following code?
+##### Question 9. What will be the output of the following code?
 
 ```javascript
 var x = 1;
@@ -337,7 +337,7 @@ The code above will output `1` as output. `delete` operator is used to delete a 
 
 </details>
 
-## Question 10. What will be the output of the following code?
+##### Question 10. What will be the output of the following code?
 
 ```javascript
 var x = { foo : 1};
@@ -354,7 +354,7 @@ The code above will output `undefined` as output. `delete` operator is used to d
 
 </details>
 
-## Question 11. What will be the output of the following code?
+##### Question 11. What will be the output of the following code?
 
 ```javascript
 var Employee = {
@@ -373,7 +373,7 @@ The code above will output `xyz` as output. Here `emp1` object got company as **
 
 </details>
 
-## Question 12. What is `undefined x 1` in JavaScript
+##### Question 12. What is `undefined x 1` in JavaScript
 
 ```javascript
 var trees = ["redwood", "bay", "cedar", "oak", "maple"];
@@ -393,7 +393,7 @@ Clearly we can see that Chrome has its own way of displaying uninitialized index
 
 </details>
 
-## Question 13. What will be the output of the following code?
+##### Question 13. What will be the output of the following code?
 
 ```javascript
 var trees = ["xyz", "xxxx", "test", "ryan", "apple"];
@@ -409,7 +409,7 @@ So when delete operator removes an array element that deleted element is no long
 
 </details>
 
-## Question 14. What will be the output of the following code?
+##### Question 14. What will be the output of the following code?
 
 ```javascript
 var bar = true;
@@ -432,7 +432,7 @@ The code above will output `1, "truexyz", 2, 1` as output. Here's a general guid
 
 </details>
 
-## Question 15. What will be the output of the following code?
+##### Question 15. What will be the output of the following code?
 
 ```javascript
 var z = 1, y = z = typeof y;
@@ -452,7 +452,7 @@ y = z;
 
 </details>
 
-## Question 16. What will be the output of the following code?
+##### Question 16. What will be the output of the following code?
 
 ```javascript
 // NFE (Named Function Expression)
@@ -494,7 +494,7 @@ var foo = function bar() {
 
 </details>
 
-## Question 17a. What is the difference between declaring a function in the formats listed below?
+##### Question 17a. What is the difference between declaring a function in the formats listed below?
 
 ```javascript
 var foo = function() {
@@ -528,7 +528,7 @@ function bar() {
 ```
 </details>
 
-## Question 17b. What is the output of the following?
+##### Question 17b. What is the output of the following?
 
 ```javascript
 bar();
@@ -546,7 +546,7 @@ Since the function is called first and defined during parse time the JS engine w
 
 </details>
 
-## Question 18. In which case the function definition is not hoisted in JavaScript?
+##### Question 18. In which case the function definition is not hoisted in JavaScript?
 
 <details><summary><b>Answer</b></summary>
 
@@ -587,7 +587,7 @@ foo(); // Now foo is defined here
 
 </details>
 
-## Question 19. What will be the output of the following code?
+##### Question 19. What will be the output of the following code?
 
 ```javascript
 var salary = "1000$";
@@ -613,7 +613,7 @@ var salary = "1000$";
 
 </details>
 
-## Question 20. What’s the difference between `typeof` and `instanceof`?
+##### Question 20. What’s the difference between `typeof` and `instanceof`?
 
 <details><summary><b>Answer</b></summary>
 
@@ -642,7 +642,7 @@ Ref Link: [http://stackoverflow.com/questions/2449254/what-is-the-instanceof-ope
 
 </details>
 
-## Question 21. Calculate the length of the associative array
+##### Question 21. Calculate the length of the associative array
 
 ```javascript
 var counterArray = {
@@ -655,7 +655,7 @@ counterArray["C"] = 1;
 
 First of all, in the case of JavaScript an associative array is the same as an object. Secondly, even though there is no built-in function or property available to calculate the length/size an object, we can write such function ourselves.
 
-#### Method 1
+###### Method 1
 
 `Object` has `keys` method which can be used to calculate the length of object.
 
@@ -663,7 +663,7 @@ First of all, in the case of JavaScript an associative array is the same as an o
 Object.keys(counterArray).length; // Output 3
 ```
 
-#### Method 2
+###### Method 2
 
 We can also calculate the length of object by iterating through the object and by doing a count of own property of object. This way we will ignoge the properties that came from the object's prototype chain:  
 
@@ -678,7 +678,7 @@ function getLength(object) {
 }
 ```
 
-#### Method 3 
+###### Method 3 
 
 All modern browsers (including IE9+) support the [`getOwnPropertyNames`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getOwnPropertyNames) method, so we can calculate the length using the following code: 
 
@@ -686,7 +686,7 @@ All modern browsers (including IE9+) support the [`getOwnPropertyNames`](https:/
 Object.getOwnPropertyNames(counterArray).length; // Output 3
 ```
 
-#### Method 4
+###### Method 4
 
 [Underscore](https://underscorejs.org/#size) and [lodash](https://lodash.com/docs/4.17.10#size) libraries have the method `size` dedicated to calculate the object length. We don't recommend to include one of these libraries just to use the `size` method, but if it's already used in your project - why not? 
 
@@ -697,7 +697,7 @@ _.size({one: 1, two: 2, three: 3});
 
 </details>
 
-## Question 22. Difference between `Function`, `Method` and `Constructor` calls in JavaScript.
+##### Question 22. Difference between `Function`, `Method` and `Constructor` calls in JavaScript.
 
 <details><summary><b>Answer</b></summary>
 
@@ -755,7 +755,7 @@ The primary role of the constructor function is to initialize the object.
 
 </details>
 
-## Question 23. What would be the output of the following code?
+##### Question 23. What would be the output of the following code?
 
 ```javascript
 function User(name) {
@@ -786,7 +786,7 @@ foo["location"] = "USA";
  
 </details>
 
-## Question 24. What are Service Workers and when can you use them?
+##### Question 24. What are Service Workers and when can you use them?
 
 <details><summary><b>Answer</b></summary>
 
@@ -798,7 +798,7 @@ As of 2017, Service Workers are not supported in IE and Safari.
 
 </details>
 
-## Question 25. What is the difference between a method and a function in javascript?
+##### Question 25. What is the difference between a method and a function in javascript?
 
 <details><summary><b>Answer</b></summary>
 
@@ -836,7 +836,7 @@ A method is a piece of code that is called by its name and that is associated wi
 
 Here are some examples of methods: 
 
-##### Example 1
+###### Example 1
 ```javascript
 var obj1 = {
   attribute: "xyz",
@@ -850,7 +850,7 @@ obj1.myMethod();
 
 Here `obj1` is an object and `myMethod` is a method which is associated with `obj1`.
 
-##### Example 2
+###### Example 2
 In ES6 we have classes. There the methods will look like this:
 
 ```javascript
@@ -882,10 +882,10 @@ obj1.myMethod(); // will print "Hi there" following with obj1.
 
 </details>
 
-## Question 26. What is IIFE (Immediately Invoked Function Expression) and how it can be useful?
+##### Question 26. What is IIFE (Immediately Invoked Function Expression) and how it can be useful?
 <details><summary><b>Answer</b></summary>
 
-#### Definition
+###### Definition
 IIFE a function that runs as soon as it's defined. Usually it's anonymous (doesn't have a function name), but it also can be named. Here's an example of IIFE:
 
 ```javascript
@@ -894,7 +894,7 @@ IIFE a function that runs as soon as it's defined. Usually it's anonymous (doesn
 })();
 // outputs "Hi, I'm IIFE!"
 ```
-#### Explanation
+###### Explanation
 
 So, here's how it works. Remember the difference between function statements (`function a () {}`) and function expressions (`var a = function() {}`)? So, IIFE is a function expression. To make it an expression we surround our function declaration into the parens. We do it to explicitly tell the parser that it's an expression, not a statement (JS doesn't allow statements in parens).
 
@@ -939,7 +939,7 @@ That's it. The rest is details.
   
   Please don't use all these forms to impress colleagues, but be prepared that you can encounter them in someone's code. 
 
-#### Applications and usefulness
+###### Applications and usefulness
 
 Variables and functions that you declare inside an IIFE are not visible to the outside world, so you can:
  - Use the IIFE for isolating parts of the code to hide details of implementation.
@@ -951,7 +951,7 @@ code, it helps to prevent polluting the global scope and provide the module inte
 
 </details>
 
-## Question 27. Describe Singleton Pattern In JavaScript
+##### Question 27. Describe Singleton Pattern In JavaScript
 <details><summary><b>Answer</b></summary>
 
 The singleton pattern is an often used JavaScript design pattern. It provides a way to wrap the code into a logical unit that can be accessed through a single variable. The Singleton design pattern is used when only one instance of an object is needed throughout the lifetime of an application. In JavaScript, Singleton pattern have many uses, they can be used for NameSpacing, which reduce the number of global variables in your page (prevent from polluting global space), organizing the code in a consistent manner, which increase the readability and maintainability of your pages.
@@ -996,7 +996,7 @@ var findUserName = $('#user_list');
 console.log(MyNameSpace.findUserName());
 ```
 
-### Singleton Design Pattern Implementation
+##### Singleton Design Pattern Implementation
 
 ```javascript
 /* Lazy Instantiation skeleton for a singleton pattern */
@@ -3025,8 +3025,8 @@ getDataFromServer('www.google.com').then(function(name){
 			 [ 2, 8, 15, 16, 23, 42 ]
 </details>
 			
-## Return Statement
-### 1. What would be the output of following code ?
+##### Return Statement
+###### 1. What would be the output of following code ?
 ```javascript
 (function(){
 	function sayHello(){
@@ -3047,7 +3047,8 @@ getDataFromServer('www.google.com').then(function(name){
 <details><summary><b>Answer</b></summary>
  4) Uncaught TypeError: Cannot read property 'fullName' of undefined
 </details>
-### 2. What would be the output of following code ?
+
+###### 2. What would be the output of following code ?
 ```javascript
 function getNumber(){
 	return (2,4,5);
@@ -3063,7 +3064,8 @@ console.log(numb);
 <details><summary><b>Answer</b></summary>
  1) 5
 </details>
-### 3. What would be the output of following code ?
+
+###### 3. What would be the output of following code ?
 ```javascript
 function getNumber(){
 	return;
@@ -3079,7 +3081,8 @@ console.log(numb);
 <details><summary><b>Answer</b></summary>
  2) undefined
 </details>
-### 4. What would be the output of following code ?
+
+###### 4. What would be the output of following code ?
 ```javascript
 function mul(x){
 	return function(y){
@@ -3099,7 +3102,8 @@ console.log(mul(2)(3)[1](4));
 <details><summary><b>Answer</b></summary>
  1) 6, 10
 </details>
-### 5. What would be the output of following code ?
+
+###### 5. What would be the output of following code ?
 ```javascript
 function mul(x) {
 	return function(y) {
@@ -3122,7 +3126,8 @@ console.log(mul(2)(3).sum(4));
 <details><summary><b>Answer</b></summary>
  1) 6, 10
 </details>
-### 6. What would be the output of following code ?
+
+###### 6. What would be the output of following code ?
 ```javascript
 function mul(x) {
 	return function(y) {
@@ -3145,7 +3150,8 @@ console.log(mul(2)(3)(4)(5)(6));
 <details><summary><b>Answer</b></summary>
  1) 720
 </details>
-### 7. What would be the output of following code ?
+
+###### 7. What would be the output of following code ?
 ```javascript
 function getName1(){
 	console.log(this.name);
@@ -3183,7 +3189,8 @@ Object.prototype.name="Steve";
 personObj.getName2();
 ```
 </details>
-### 8 . What would be the output of the following code ?
+
+###### 8. What would be the output of the following code ?
 ```javascript
 let a = true;
 let c = 0;
@@ -3197,7 +3204,9 @@ while(a){
 <details><summary><b>Answer</b></summary> 
 The above program will print Hello infinitely. Since, Javascript is a single threaded language the actual execution happens only on the main thread. So, setTimeout will wailt for 2000 milliseconds on a seperate thread as while loop has occupied the main thread. The exit condition for the loop is to set the variable a as fasle. But as the loop continously running on the main thread , it a cannot be set false.
 </details>
-### 9 . What would be the output of the following code ?
+
+###### 9. What would be the output of the following code ?
+
 ```javascript
 let c=0;
 let id = setInterval(() => {
